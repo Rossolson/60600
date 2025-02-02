@@ -1,34 +1,38 @@
-﻿The Project Gutenberg eBook of Forty-Five Years Of Digitizing Ebooks, by Gregory B. Newby
+﻿The Project Gutenberg EBook of Forty-Five Years Of Digitizing Ebooks
 
 This eBook is for the use of anyone anywhere in the United States and
 most other parts of the world at no cost and with almost no restrictions
-whatsoever. You may copy it, give it away or re-use it under the terms
+whatsoever.  You may copy it, give it away or re-use it under the terms
 of the Project Gutenberg License included with this eBook or online at
-www.gutenberg.org. If you are not located in the United States, you
-will have to check the laws of the country where you are located before
-using this eBook.
+www.gutenberg.org.  If you are not located in the United States, you'll
+have to check the laws of the country where you are located before using
+this ebook.
+
+
 
 Title: Forty-Five Years Of Digitizing Ebooks
+       Project Gutenberg's Practices
 
 Author: Gregory B. Newby
 
-Release Date: October 18, 2019 [eBook #60600]
-[Most recently updated: July 6, 2021]
+Release Date: October 18, 2019 [EBook #60600]
 
 Language: English
 
 Character set encoding: UTF-8
 
-Produced by: an Anonymous Project Gutenberg Volunteer
+Produced by an Anonymous Project Gutenberg Volunteer
 
-*** START OF THE PROJECT GUTENBERG EBOOK DIGITIZING EBOOKS ***
+
+*** START OF THIS PROJECT GUTENBERG EBOOK DIGITIZING EBOOKS ***
+
 
 
 
 
 FORTY-FIVE YEARS OF DIGITIZING EBOOKS
 
-PROJECT GUTENBERG’S PRACTICES
+PROJECT GUTENBERG'S PRACTICES
 
 By Gregory B. Newby
 
@@ -39,11 +43,11 @@ CEO Project Gutenberg Literary Archive Foundation
 
 ABSTRACT
 
-Project Gutenberg creates and freely distributes electronic books
+Project Gutenberg creates and freely distributed electronic books
 (eBooks). This document offers elements of the story of Project
-Gutenberg’s methods and practices for creating those eBooks, and the
+Gutenberg's methods and practices for creating those eBooks, and the
 surrounding procedures for making them as widely available as possible.
-Project Gutenberg seeks to make the world’s great literature enjoyable
+Project Gutenberg seeks to make the world's great literature enjoyable
 and accessible.
 
 
@@ -54,21 +58,20 @@ HISTORICAL ROOTS
 The first Project Gutenberg eBook was created on July 4, 1971. Michael
 S. Hart had been granted access to a powerful mainframe computer at
 the University of Illinois at Urbana-Champaign, and realized that his
-greatest impact would be by digitizing and distributing free
-literature (for more history, see: The eBook is 40 (1971-2011), by
-Marie Lebert, https://www.gutenberg.org/ebooks/36985).
+greatest impact would be by digitizing and distributing free literature
+(for more history, see: www.gutenberg.org/ebooks/36985).
 
 Michael took a printed copy of the United States Declaration of
 Independence (www.gutenberg.org/ebooks/1) to the computer laboratory,
 where he sat at the teletype terminal and typed this first eBook. He
-distributed it via email to the people he knew about via the Internet’s
-predecessor, ARPAnet, which was available at UIUC. At that moment, the
+distributed it via email to the people he knew about via the Internet's
+predecessor, Arpanet, which was available at UIUC. At that moment, the
 first eBook had been freely distributed to the online community of the
 day.
 
 Digitization and production techniques, at the time of this first eBook,
-were /ad hoc/ and informal. A single eBook producer would edit a single
-file, from a single source. The first eBook’s printed source was a
+were ad hoc and informal. A single eBook producer would edit a single
+file, from a single source. The first eBook's printed source was a
 single sheet of paper, without hyphenation, a book cover, images, or
 other characteristics of book-length sources. In 1971, capitalization
 was not an issue, as only upper case letters were available in the
@@ -88,14 +91,15 @@ volunteers who would produce those eBooks.
 
 Throughout the history of Project Gutenberg, these techniques, while
 refined and clearly articulated, have remained flexible (see the
-Volunteers’ FAQ at https://www.gutenberg.org/help/volunteers_faq.html).
+Volunteers' FAQ at http://www.gutenberg.org/wiki/Gutenberg:Volunteers%27
+).
 
 
 
 
 EMPHASIS ON THE PUBLIC DOMAIN
 
-Project Gutenberg’s founder, Michael Hart, was motivated by completely
+Project Gutenberg's founder, Michael Hart, was motivated by completely
 free and unencumbered redistribution of literary works. Access to
 literary works enables literacy, which in turn opens the door to
 education and, it is hoped, opportunity. Interest in literary works
@@ -108,9 +112,9 @@ operates, is defined as a temporary monopoly by authors (or their
 agents), in order to benefit from commercial potential and thereby
 fostering continued creation:
 
-“To promote the Progress of Science and useful Arts, by securing for
+"To promote the Progress of Science and useful Arts, by securing for
 limited Times to Authors and Inventors the exclusive Right to their
-respective Writings and Discoveries” (United States Constitution,
+respective Writings and Discoveries" (United States Constitution,
 https://www.gutenberg.org/ebooks/5).
 
 
@@ -131,12 +135,12 @@ focused on items for which the copyright term has expired. Until 1998,
 this included items published 75 years earlier. For example, items from
 1920 entered the public domain when their copyrights expired in 1995.
 The US Copyright Term Extension Act of 1998 changed the term to 95 years
-for most literary works, so new items (from 1923 onward) will not enter
+for most literary works, so new items (from 1923 onwards) will not enter
 the public domain before 2019.
 
 [Illustration: 0003]
 
-Figure 2: Michael Hart’s sunroom workspace in his Urbana home
+Figure 2: Michael Hart s sunroom workspace in his Urbana home
 
 There are over one million published works from 1923 and earlier, and
 these are the main items that Project Gutenberg continues to digitize
@@ -144,7 +148,7 @@ and distribute. In addition, there were approximately one million works
 published in the United States from 1923-1964 but not renewed. Those
 items entered the public domain when their first copyright term ended,
 28 years after publication. The copyright procedures utilized are online
-at https://www.gutenberg.org/help/copyright.html.
+at www.gutenberg.org/wiki/Gutenberg:Copyright How-To.
 
 
 
@@ -218,10 +222,10 @@ is completed, one or more rounds of proofreading will help to improve
 quality. This includes typos, poor formatting, or inconsistency of
 presentation. In practice, all eBooks published by Project Gutenberg
 still have errors, even if they are far better than 99% accurate. For
-example, an eBook that is 99.999% accurate (i.e., “five nines”) will
+example, an eBook that is 99.999% accurate (i.e., "five nines") will
 still have one wrong character in 10,000. That amounts to approximately
 30 errors in a typical 50,000 word novel. Proofreading is, by
-its nature, asymptotic. Subsequent rounds of proofreading improve an
+definition, asymptotic. Subsequent rounds of proofreading improve an
 eBook, but that eBook is still likely to contain some errors.
 
 Errors in eBooks often reflect errors in their printed sources, and
@@ -236,8 +240,8 @@ From 2002-2004 an important innovation was developed, in support of
 the creation of new Project Gutenberg eBooks. This was Distributed
 Proofreaders, an early example of what is now known as crowdsourcing.
 Through Distributed Proofreaders, volunteers engage in a portion of
-the eBook creation process — whether it is copyright clearances,
-proofreading (a page at a time!), or formatting, checking, and
+the eBook creation process - whether it is copyright clearances,
+proofreading (a page at a time!), or the formatting, checking, and
 finalization before uploading. Those portions, when coordinated
 together, lead to the creation of new eBooks from printed sources.
 
@@ -274,11 +278,11 @@ order for the individual pages to be ingested by the scanner.
 
 [Illustration: 0006]
 
-Figure 3: Image from the Doré illustrations of Dante’s Inferno
+Figure 3: Image from the Doré illustrations of Dante's Inferno
 
-It has been Project Gutenberg’s intention to make all the original
+It has been Project Gutenberg's intention to make all the original
 images from the scanners available, alongside the finished eBook. This
-is to have a more complete record of the eBook’s source(s), and also to
+is to have a more complete record of the eBook's source(s), and also to
 facilitate improvements by finding typos. Most eBook producers to date
 have chosen to not provide the scans, however.
 
@@ -290,7 +294,7 @@ images.
 
 Project Gutenberg has no prohibition against using items scanned by
 other parties. Several excellent sources of scans are freely available,
-including Google Books, Gallica, and The Internet Archive. Scans, and
+including   Books, Gallica, and The Internet Archive. Scans, and
 raw OCR output (if available), may then be transformed into Project
 Gutenberg eBooks by volunteers.
 
@@ -301,8 +305,8 @@ COPYRIGHT CLEARANCE OR PERMISSION
 
 From approximately 1994-2004, procedures for digitization became
 more clearly articulated. This included the notion that a copyright
-“clearance” was the necessary first step for starting any new eBook
-for contribution to Project Gutenberg. The “copyright how-to” mentioned
+"clearance" was the necessary first step for starting any new eBook
+for contribution to Project Gutenberg. The "copyright how-to" mentioned
 above was developed and refined, with guidance from a number of lawyers
 with expertise in US copyright law.
 
@@ -336,13 +340,11 @@ to Project Gutenberg, for unlimited redistribution of the item; and
 However, user-contributed content is generally no longer accepted for
 the main collection at www.gutenberg.org. Instead, a new self-publishing
 portal, operated by an affiliate, The World EBook Library, is available
-at self.gutenberg.org.
-
-With the self-publishing portal, authors may use any license they wish
-(such as a Creative Commons license), and can provide items in PDF or
-other formats. This simplifies the process for the authors, and
-removes the need for Project Gutenberg’s volunteers to be involved
-with author-contributed content.
+at self.gutenberg.org. With the self-publishing portal, authors may
+use any license they wish (such as a Creative Commons license), and can
+provide items in PDF or other formats. This simplifies the process for
+the authors, and removes the need for Project Gutenberg's volunteers to
+be involved with user-contributed content.
 
 
 
@@ -350,17 +352,17 @@ with author-contributed content.
 MULTIPLE SOURCES
 
 Project Gutenberg encourages the use of multiple printed sources to
-create an eBook. For many historical works, including the US
-Declaration of Independence (the first Project Gutenberg eBook), there
-are variations among the printed sources. Another early example is the
-works of William Shakespeare. Project Gutenberg has several different
-versions of Shakespeare, including one based on the first edition
-folios. It has been typical, throughout the modern history of
-publishing, for different versions of a book to have variations.
+create an eBook. For many historical works, including the US Declaration
+of Independence (the first Project Gutenberg eBook), there are
+variations in the printed sources. Another early example is the works of
+William Shakespeare. Project Gutenberg has several different versions of
+Shakespeare, including one based on the first edition folios. It has
+been typical, throughout the modern history of publishing, for different
+versions of a book to have variations.
 
 In practice, the majority of Project Gutenberg eBooks rely on a single
 printed source. However, even those items might benefit from other
-sources — such as when some pages are missing, or illustrations come
+sources - such as when some pages are missing, or illustrations come
 from a different version, or when typos/errata reports come from other
 sources.
 
@@ -368,17 +370,17 @@ It is a principal of Project Gutenberg that the eBooks in the collection
 are denoted as Project Gutenberg eBooks. Even if the publisher imprint
 and frontispiece from a printed work is included, there is no assurance
 that the content exactly matches that printed work. And, in fact,
-it will not match: minimally, the headers/footers will be removed, and
+it will not match: minimally, the header/footer will be removed, and
 paragraphs will flow together such that they span the pages of the
 printed source. Many other adjustments are typically made, as mentioned
 above.
 
-For this reason, Project Gutenberg’s online catalog metadata does not
+For this reason, Project Gutenberg's online catalog metadata does not
 include a citation to the source(s) used to create an eBook. Instead,
 Project Gutenberg should be cited as the publisher. For example, a
 bibliographic citation might have a form such as this:
 
-Carroll, Lewis. “Alice’s Adventures in Wonderland.” Urbana, Illinois:
+Carroll, Lewis. "Alice's Adventures in Wonderland." Urbana, Illinois:
 Project Gutenberg. Available: www.gutenberg.org/ebooks/11
 
 
@@ -395,15 +397,15 @@ types offered.
 
 Among the first 100 items, there are mathematical constants and a
 musical performance. Government publications, notably the 1990 US Census
-and the CIA World Factbook from 1990 onward, were also included. The
+and the CIA World Factbook from 1990 onwards, were also included. The
 next few hundred items include movies, photographs of ancient cave
-paintings, and the first non-English items (Virgil’s Aeneid, Cicero’s
-Orations, and Caesar’s Commentaries, all in Latin).
+paintings, and the first non-English items (Virgil's Aeneid, Cicero's
+Orations, and Caesar's Commentaries, all in Latin).
 
 Hundreds of audio eBooks are in the collection. Many were automatically
 generated via text-to-speech software. There are also a number
 of readings/performances by human readers, including from Project
-Gutenberg’s partner, Librivox (www.librivox.org). Today, automated
+Gutenberg's partner, Librivox (www.librivox.org). Today, automated
 text-to-speech is accessible by most people with a computer or
 mobile phone, so there is less emphasis on that format. Human
 readings/performances continue to be of interest, especially when the
@@ -416,13 +418,13 @@ granted to the public domain.
 LANGUAGES OTHER THAN ENGLISH
 
 Non-English languages have some additional characteristics that were not
-well-suited for the plain text ASCII of Project Gutenberg’s early days.
+well-suited for the plain text ASCII of Project Gutenberg's early days.
 By the early 1990s, it was necessary to display accented characters, to
 accommodate languages such as French and Spanish. Later, languages such
 as Chinese would require entirely separate character sets.
 
 OCR software may be poorly suited for several non-English languages, or
-may fail due to older styles of typesetting (the old German “Fraktur” is
+may fail due to older styles of typesetting (the old German "Fraktur" is
 notorious in this regard).
 
 Also, it is necessary to have proofreaders who are fluent in the
@@ -533,15 +535,15 @@ become available.
 
 For these reasons, Project Gutenberg still prefers to make plain text
 available for essentially every eBook. The only exceptions are those
-for which no plain text encoding is reasonable — such as Chinese, or
-mathematical texts, or music. In this way, the collection is “future
-proof,” so that even if all content cannot be fully represented as text,
+for which no plain text encoding is reasonable - such as Chinese, or
+mathematical texts, or music. In this way, the collection is "future
+proof," so that even if all content cannot be fully represented as text,
 the files themselves will still be readable and enjoyable to read.
 
 Figure 3: Typical text view, showing fixed-length lines and spacing
 among components.
 
-     A CONNECTICUT YANKEE IN KING ARTHUR’S COURT
+     A CONNECTICUT YANKEE IN KING ARTHUR'S COURT
 
      by MARK TWAIN (Samuel L. Clemens)
 
@@ -559,7 +561,7 @@ among components.
      of these laws or customs was lacking in that remote time,
      its place was competently filled by a worse one.
 
-Today, Project Gutenberg’s plain text offerings are most often derived
+Today, Project Gutenberg's plain text offerings are most often derived
 automatically from another master format. The most common master format
 is HTML, which offers advantages of ubiquity and ease of authoring.
 LaTeX is also used as a master, mainly for mathematical texts.
@@ -572,17 +574,17 @@ adopted by eBook producers.
 
 DERIVATIVE FORMATS
 
-The ubiquity of reading devices — from mobile phones, to tablets, to
-electronic paper — was predicted by Project Gutenberg. Rather than
+The ubiquity of reading devices - from mobile phones, to tablets, to
+electronic paper - was predicted by Project Gutenberg. Rather than
 creating separate master files for each native format for the devices,
 automatic conversion is applied to one of the master formats. For years,
 Java-format eBooks were automatically created, and these were usable on
 many mobile phones.
 
-Today, EPUB and MOBI (also known as Kindle) formats are the most
-common.  Free software for conversion, called ebookmaker (previously
-called epubmaker) is used to create derivative formats. This helps to
-assure compatibility for different reader devices.
+Today, EPUB and MOBI (also known as Kindle) formats are the most common.
+Free software for conversion, called ebookmaker (later, epubmaker) is
+used to create derivative formats. This helps to assure compatibility
+for different reader devices.
 
 
 
@@ -605,7 +607,7 @@ Upon uploading, automated checks include:
      languages);
 
      Typo/scanno checks (seeking common scanner/OCR errors, such
-     as “he” for “be” and vice-versa);
+     as "he" for "be" and vice-versa);
 
      Conversion checks.
 
@@ -616,7 +618,7 @@ include:
      Plain text in UTF8 encoding;
 
      Automatically generated HTML (if HTML is not the master
-     format).
+     format)
 
 
 
@@ -628,8 +630,8 @@ and one without. The set of files without images is intended to be
 friendlier to readers with limited bandwidth, or without the necessary
 storage space for any images included with the eBook.
 
-After uploading, a team of human experts — known as the “whitewashers,”
-after a scene in Mark Twain’s “The Adventures of Tom Sawyer” — does
+After uploading, a team of human experts - known as the "whitewashers,"
+after a scene in Mark Twain's "The Adventures of Tom Sawyer" - does
 final formatting, attaches the Project Gutenberg header and footer, and
 uploads the new item to the server at www.gutenberg.org.
 
@@ -642,22 +644,22 @@ The Project Gutenberg catalog database includes metadata from
 within each eBook: the author, title, available file formats,
 upload/publication date, language, etc. Human catalogers eventually add
 additional metadata, including Library of Congress Subject Headings.
-This catalog is available for free download in machine readable form
+This catalog is available for free download in machine-readable form
 (XML/RDF or MARC).
 
-Organizations that desire to redistribute Project Gutenberg’s content,
+Organizations that desire to redistribute Project Gutenberg's content,
 freely and without limitations, are invited to do so. The catalog may
 be used for this purpose, and various mechanisms are available
 to automatically maintain a copy of the collection itself (i.e.,
-“mirroring”), including for generated content.
+"mirroring"), including for generated content.
 
 
 
 
-“NO SWEAT OF THE BROW COPYRIGHT”
+"NO SWEAT OF THE BROW COPYRIGHT"
 
 An important innovation during the evolution of Project Gutenberg was
-to clarify the notion of “authorship” and its critical role for
+to clarify the notion of "authorship" and its critical role for
 establishing copyright. In early days, it was common to think that
 applying HTML markup, or reformatting, or spelling changes, qualified
 an item for a new copyright. Historically, some print publishers even
@@ -665,14 +667,14 @@ claimed new copyrights simply for typesetting a new edition.
 
 Today, we know US copyright is based on the creative expression of ideas
 through authorship. Markup and spelling changes do not qualify. As a
-result, Project Gutenberg volunteers are able to “harvest” public domain
+result, Project Gutenberg volunteers are able to "harvest" public domain
 materials on the Internet, once they are determined to match public
 domain print materials. This is not a frequent occurrence, however,
 since most volunteers prefer to work on items that are not yet
 digitized.
 
-Similarly, Project Gutenberg claims no copyright on the “sweat of the
-brow” labor which is applied to make eBooks from print sources. There
+Similarly, Project Gutenberg claims no copyright on the "sweat of the
+brow" labor which is applied to make eBooks from print sources. There
 were a few earlier items where such copyright was claimed erroneously,
 but this is no longer done.
 
@@ -687,9 +689,9 @@ digitization projects of historical items. An important distinction
 is that Project Gutenberg engages in the proofreading, formatting,
 markup/encoding, and other activities described above. Those other very
 large projects are primarily devoted to scanning, and then provide raw
-OCR output with a few automatically generated formats.
+OCR output with a few automatically-generated formats.
 
-Such items are only partial eBooks — really, they are pictures (scans)
+Such items are only partial eBooks - really, they are pictures (scans)
 of books, with some additional automated features. These are valuable,
 but do not provide the reading experience or quality of presentation
 that Project Gutenberg strives for. Using current technology, it takes
@@ -709,7 +711,7 @@ today:
      Development of an open content trademark license (1991-
      1993), which is intended to guarantee to readers that public
      domain items remain free, while placing restrictions on the
-     trademarked name “Project Gutenberg” to protect against
+     trademarked name "Project Gutenberg" to protect against
      abusive practices by those who would sell the public domain
      items;
 
@@ -724,8 +726,8 @@ today:
      Web-based access to content, and development of procedures
      to assure HTML is valid and well-formed (1996);
 
-     The Copyright How-To, including the Rule 6 How-To for non-renewed
-     items (2000 & 2008);
+     The Copyright How-To, including the Rule 6 How-To for non-
+     renewed items (2000 & 2008);
 
      Support of Distributed Proofreaders (2002-2004), for
      crowdsourced proofreading and other aspects of new eBook
@@ -738,7 +740,7 @@ today:
      & 2012);
 
      Integration with   Drive, Dropbox, and other mechanisms
-     for readers to employ “cloud” storage for eBooks (2013);
+     for readers to employ "cloud" storage for eBooks (2013);
 
      Fully automated conversion from master formats to eBook
      formats (2013).
@@ -749,12 +751,12 @@ to readers. There are no definite timelines for these, and assistance
 (or partnerships!) are always of interest. Some future initiatives may
 include:*
 
-     Continued efforts to separate the “collection” from the
-     “interface,” making it easier for different Web-based skins
+     Continued efforts to separate the "collection" from the
+     "interface," making it easier for different Web-based skins
      to be used to access content;
 
-     Mechanisms for creation of personal bookshelves, “shopping
-     carts” or other reading lists, for users to more easily
+     Mechanisms for creation of personal bookshelves, "shopping
+     carts" or other reading lists, for users to more easily
      track items of interest;
 
      Crowdsourced reviews, errata and improvements to eBooks,
@@ -762,9 +764,8 @@ include:*
      other techniques common among developers of free software;
 
      Improvements in ability to identify and filter items by the
-     author’s death date, which is the most common criterion for
-     determining public domain status of older items, in countries
-     other than the US;
+     author's death date, which is the most common criterion for
+     public domain status in countries other than the US;
 
      Better tracking of sources used, including for harvested
      scans; even with no guarantee of faithfulness to a
@@ -773,7 +774,7 @@ include:*
 
      More languages, more formats, and additional content types;
 
-     Encouragement of innovative ideas by Project Gutenberg’s
+     Encouragement of innovative ideas by Project Gutenberg's
      readers and other fans;
 
      Ongoing evolution in the utility of Project Gutenberg eBooks
@@ -795,29 +796,40 @@ continues to thrive.
 
 
 
-*** END OF THE PROJECT GUTENBERG EBOOK DIGITIZING EBOOKS ***
+
+
+
+End of the Project Gutenberg EBook of Forty-Five Years Of Digitizing Ebooks
+By Gregory B. Newby
+
+*** END OF THIS PROJECT GUTENBERG EBOOK OF DIGITIZING EBOOKS ***
+
+
+***** This file should be named 60600.txt or 60600.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/6/0/6/0/60600/
+
+Produced by an Anonymous Project Gutenberg Volunteer
 
 Updated editions will replace the previous one--the old editions will
 be renamed.
 
 Creating the works from print editions not protected by U.S. copyright
 law means that no one owns a United States copyright in these works,
-so the Foundation (and you!) can copy and distribute it in the
-United States without permission and without paying copyright
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
 royalties. Special rules, set forth in the General Terms of Use part
 of this license, apply to copying and distributing Project
 Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
 concept and trademark. Project Gutenberg is a registered trademark,
-and may not be used if you charge for an eBook, except by following
-the terms of the trademark license, including paying royalties for use
-of the Project Gutenberg trademark. If you do not charge anything for
-copies of this eBook, complying with the trademark license is very
-easy. You may use this eBook for nearly any purpose such as creation
-of derivative works, reports, performances and research. Project
-Gutenberg eBooks may be modified and printed and given away--you may
-do practically ANYTHING in the United States with eBooks not protected
-by U.S. copyright law. Redistribution is subject to the trademark
-license, especially commercial redistribution.
+and may not be used if you charge for the eBooks, unless you receive
+specific permission. If you do not charge anything for copies of this
+eBook, complying with the rules is very easy. You may use this eBook
+for nearly any purpose such as creation of derivative works, reports,
+performances and research. They may be modified and printed and given
+away--you may do practically ANYTHING in the United States with eBooks
+not protected by U.S. copyright law. Redistribution is subject to the
+trademark license, especially commercial redistribution.
 
 START: FULL LICENSE
 
@@ -881,7 +893,7 @@ agreement before downloading, copying, displaying, performing,
 distributing or creating derivative works based on this work or any
 other Project Gutenberg-tm work. The Foundation makes no
 representations concerning the copyright status of any work in any
-country other than the United States.
+country outside the United States.
 
 1.E. Unless you have removed all references to Project Gutenberg:
 
@@ -897,8 +909,8 @@ performed, viewed, copied or distributed:
   restrictions whatsoever. You may copy it, give it away or re-use it
   under the terms of the Project Gutenberg License included with this
   eBook or online at www.gutenberg.org. If you are not located in the
-  United States, you will have to check the laws of the country where
-  you are located before using this eBook.
+  United States, you'll have to check the laws of the country where you
+  are located before using this ebook.
 
 1.E.2. If an individual Project Gutenberg-tm electronic work is
 derived from texts not protected by U.S. copyright law (does not
@@ -934,7 +946,7 @@ compressed, marked up, nonproprietary or proprietary form, including
 any word processing or hypertext form. However, if you provide access
 to or distribute copies of a Project Gutenberg-tm work in a format
 other than "Plain Vanilla ASCII" or other format used in the official
-version posted on the official Project Gutenberg-tm website
+version posted on the official Project Gutenberg-tm web site
 (www.gutenberg.org), you must, at no additional cost, fee or expense
 to the user, provide a copy, a means of exporting a copy, or a means
 of obtaining a copy upon request, of the work in its original "Plain
@@ -947,7 +959,7 @@ unless you comply with paragraph 1.E.8 or 1.E.9.
 
 1.E.8. You may charge a reasonable fee for copies of or providing
 access to or distributing Project Gutenberg-tm electronic works
-provided that:
+provided that
 
 * You pay a royalty fee of 20% of the gross profits you derive from
   the use of Project Gutenberg-tm works calculated using the method
@@ -981,9 +993,9 @@ provided that:
 1.E.9. If you wish to charge a fee or distribute a Project
 Gutenberg-tm electronic work or group of works on different terms than
 are set forth in this agreement, you must obtain permission in writing
-from the Project Gutenberg Literary Archive Foundation, the manager of
-the Project Gutenberg-tm trademark. Contact the Foundation as set
-forth in Section 3 below.
+from both the Project Gutenberg Literary Archive Foundation and The
+Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
+trademark. Contact the Foundation as set forth in Section 3 below.
 
 1.F.
 
@@ -1068,12 +1080,10 @@ and permanent future for Project Gutenberg-tm and future
 generations. To learn more about the Project Gutenberg Literary
 Archive Foundation and how your efforts and donations can help, see
 Sections 3 and 4 and the Foundation information page at
-www.gutenberg.org
+www.gutenberg.org Section 3. Information about the Project Gutenberg
+Literary Archive Foundation
 
-Section 3. Information about the Project Gutenberg Literary
-Archive Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non-profit
+The Project Gutenberg Literary Archive Foundation is a non profit
 501(c)(3) educational corporation organized under the laws of the
 state of Mississippi and granted tax exempt status by the Internal
 Revenue Service. The Foundation's EIN or federal tax identification
@@ -1081,18 +1091,27 @@ number is 64-6221541. Contributions to the Project Gutenberg Literary
 Archive Foundation are tax deductible to the full extent permitted by
 U.S. federal laws and your state's laws.
 
-The Foundation's business office is located at 809 North 1500 West,
-Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
-to date contact information can be found at the Foundation's website
-and official page at www.gutenberg.org/contact
+The Foundation's principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its
+volunteers and employees are scattered throughout numerous
+locations. Its business office is located at 809 North 1500 West, Salt
+Lake City, UT 84116, (801) 596-1887. Email contact links and up to
+date contact information can be found at the Foundation's web site and
+official page at www.gutenberg.org/contact
+
+For additional contact information:
+
+    Dr. Gregory B. Newby
+    Chief Executive and Director
+    gbnewby@pglaf.org
 
 Section 4. Information about Donations to the Project Gutenberg
 Literary Archive Foundation
 
-Project Gutenberg-tm depends upon and cannot survive without
-widespread public support and donations to carry out its mission of
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
 increasing the number of public domain and licensed works that can be
-freely distributed in machine-readable form accessible by the widest
+freely distributed in machine readable form accessible by the widest
 array of equipment including outdated equipment. Many small donations
 ($1 to $5,000) are particularly important to maintaining tax exempt
 status with the IRS.
@@ -1115,12 +1134,12 @@ International donations are gratefully accepted, but we cannot make
 any statements concerning tax treatment of donations received from
 outside the United States. U.S. laws alone swamp our small staff.
 
-Please check the Project Gutenberg web pages for current donation
+Please check the Project Gutenberg Web pages for current donation
 methods and addresses. Donations are accepted in a number of other
 ways including checks, online payments and credit card donations. To
 donate, please visit: www.gutenberg.org/donate
 
-Section 5. General Information About Project Gutenberg-tm electronic works
+Section 5. General Information About Project Gutenberg-tm electronic works.
 
 Professor Michael S. Hart was the originator of the Project
 Gutenberg-tm concept of a library of electronic works that could be
@@ -1134,12 +1153,11 @@ the U.S. unless a copyright notice is included. Thus, we do not
 necessarily keep eBooks in compliance with any particular paper
 edition.
 
-Most people start at our website which has the main PG search
+Most people start at our Web site which has the main PG search
 facility: www.gutenberg.org
 
-This website includes information about Project Gutenberg-tm,
+This Web site includes information about Project Gutenberg-tm,
 including how to make donations to the Project Gutenberg Literary
 Archive Foundation, how to help produce our new eBooks, and how to
 subscribe to our email newsletter to hear about new eBooks.
-
 
