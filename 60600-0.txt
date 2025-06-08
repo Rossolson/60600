@@ -583,7 +583,7 @@ Upon uploading, automated checks include:
 
      Conversion checks.
 
-The conversion check consists of using the epubmaker application to
+The conversion check consists of using the ebookmaker application to
 automatically generate derived formats. Ideally, resulting files will
 include:
 
