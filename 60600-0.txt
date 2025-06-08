@@ -656,7 +656,7 @@ but this is no longer done.
 EBOOKS, OR PICTURES OF BOOKS?
 
 Project Gutenberg has over 50,000 eBooks in its collection. This is far
-fewer than   Books, or The Internet Archive, or other large-scale
+fewer than Google Books, or The Internet Archive, or other large-scale
 digitization projects of historical items. An important distinction
 is that Project Gutenberg engages in the proofreading, formatting,
 markup/encoding, and other activities described above. Those other very
@@ -711,17 +711,17 @@ today:
      Free redistribution of metadata as a separate download (2007
      & 2012);
 
-     Integration with   Drive, Dropbox, and other mechanisms
+     Integration with OneDrive, Dropbox, and other mechanisms
      for readers to employ “cloud” storage for eBooks (2013);
 
      Fully automated conversion from master formats to eBook
      formats (2013).
 
 
-Project Gutenberg Has Ongoing Initiatives to improve service offerings
+Project Gutenberg has ongoing initiatives to improve service offerings
 to readers. There are no definite timelines for these, and assistance
 (or partnerships!) are always of interest. Some future initiatives may
-include:*
+include:
 
      Continued efforts to separate the “collection” from the
      “interface,” making it easier for different Web-based skins
